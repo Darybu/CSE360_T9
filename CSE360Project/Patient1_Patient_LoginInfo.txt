@@ -1,0 +1,10 @@
+Patient
+000000
+Tuan
+Nguyen
+8
+22
+2001
+Patient1
+111Q!
+111Q!
