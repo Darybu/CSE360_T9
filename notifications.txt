@@ -1,0 +1,7 @@
+Patient with ID 12345 sent you a message:\nAlo\n04/10/2024 16:43~~~2024-04-10T16:43:42.138743600
+Patient with ID 12345 replied to your message:\nOk baby\n04/10/2024 16:25~~~2024-04-10T16:26:05.350239200
+Patient with ID 12345 replied to your message:\nwhat's up??\n04/10/2024 16:21~~~2024-04-10T16:21:35.449465300
+Nurse updated health check-in!\non Duyen Vu - 12345~~~2024-04-09T20:52:43.874781200
+New Appointment Added!\nAnonymous - 42004~~~2024-04-08T20:47:48.759433700
+New updated health check-in!\non Anonymous - 71350~~~2024-04-08T20:45:51.738801700
+New Appointment Added!\nAnonymous - 71350~~~2024-04-08T20:42:14.682530700

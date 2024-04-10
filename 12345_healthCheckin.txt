@@ -1,0 +1,7 @@
+Duyen Vu - 12345
+Height: 5.50 ft
+Weight: 130.00 lbs
+Blood Pressure: 60/120
+Heart Rate: 80 bpm
+Oxygen Saturation: 90%
+Temperature: 75.00°F
